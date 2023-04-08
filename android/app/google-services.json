@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "881298383555",
+    "project_id": "pos-restaurant-app",
+    "storage_bucket": "pos-restaurant-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881298383555:android:a8f05861b365b4a6463876",
+        "android_client_info": {
+          "package_name": "com.example.pos_restaurant_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881298383555-bgs0qpg4hd7i4hp8n03s7sqs3abarm4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pos_restaurant_app",
+            "certificate_hash": "474cbcb51d3aa1a7adeec27948fc27e67b2cc053"
+          }
+        },
+        {
+          "client_id": "881298383555-ao440gdjfdspielasivhrp2c6m9imsq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfgBVMRU9jZT0YxkPIBlusU51dE--Fj0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881298383555-ao440gdjfdspielasivhrp2c6m9imsq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
